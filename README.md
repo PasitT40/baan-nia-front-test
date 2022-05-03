@@ -1,4 +1,4 @@
-# my-app
+# Front end test for baania
 
 ## Project setup
 ```
